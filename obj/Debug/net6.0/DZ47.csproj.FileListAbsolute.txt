@@ -1,0 +1,15 @@
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\bin\Debug\net6.0\DZ47.exe
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\bin\Debug\net6.0\DZ47.deps.json
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\bin\Debug\net6.0\DZ47.runtimeconfig.json
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\bin\Debug\net6.0\DZ47.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\bin\Debug\net6.0\DZ47.pdb
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\DZ47.csproj.AssemblyReference.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\DZ47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\DZ47.AssemblyInfoInputs.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\DZ47.AssemblyInfo.cs
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\DZ47.csproj.CoreCompileInputs.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\DZ47.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\refint\DZ47.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\DZ47.pdb
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\DZ47.genruntimeconfig.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\47\DZ47\obj\Debug\net6.0\ref\DZ47.dll
